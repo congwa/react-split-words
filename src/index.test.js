@@ -1,7 +1,7 @@
-import { SplitChars } from '.'
+import { SplitWords } from '.'
 
-describe('SplitChars', () => {
+describe('SplitWords', () => {
   it('is truthy', () => {
-    expect(SplitChars).toBeTruthy()
+    expect(SplitWords).toBeTruthy()
   })
 })

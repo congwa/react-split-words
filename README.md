@@ -20,7 +20,7 @@ import { SplitWords } from 'react-split-words'
 const App = () => {
   return <SplitWords wrapper={<span></span>}>
     This component can wrap a string into individual character tags.
-  </SplitChars>
+  </SplitWords>
 }
 
 export default App
