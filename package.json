@@ -1,7 +1,7 @@
 {
   "name": "react-split-words",
   "version": "1.0.0",
-  "description": "use react split chars",
+  "description": "use react split words",
   "author": "https://github.com/congwa/react-split-words.git",
   "license": "MIT",
   "repository": "https://github.com/congwa/react-split-words.git",

@@ -1,6 +1,6 @@
 # react-split-words
 
-> use react split chars
+> use react split words
 
 [![NPM](https://img.shields.io/npm/v/react-split-words.svg)](https://www.npmjs.com/package/react-split-words) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
